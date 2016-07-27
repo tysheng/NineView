@@ -1,6 +1,6 @@
 # NineView
 类似微信朋友圈的九图,List为空时自动隐藏，1-9图自动识别，只需简单继承和使用
-
+[地址](https://gist.github.com/tysheng/be2f61acca1f31b9ebd851b5222bdb8a)
 ##使用
 使用方法很简单
 ###第一步
