@@ -1,6 +1,7 @@
 # NineView
-类似微信朋友圈的九图
-##Using
+类似微信朋友圈的九图,List为空时自动隐藏，1-9图自动识别，只需简单继承和使用
+
+##使用
 使用方法很简单
 ###第一步
 ###直接继承 NineView，实现两个方法
@@ -41,7 +42,6 @@ public class MyNineView extends NineView {
     myNineView.setOnItemClickListener(new NineView.OnItemClickListener() {
             @Override
             public void onItemClick(View view, int position, List<String> mList) {
-                
                 //do your things
             }
         });    
